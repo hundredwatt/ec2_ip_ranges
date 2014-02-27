@@ -15,6 +15,6 @@ Check if an IP Address belongs to the Public IP Address Ranges for Amazon EC2
 
 ## Data Source
 
-The data file in this repository was last updated: Dec 13, 2013 2:52pm
+The data file in this repository was last updated: Feb 25, 2014 12:01 PM
 
 Source: https://forums.aws.amazon.com/ann.jspa?annID=1701
